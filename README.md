@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ysfsblj
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning IELTS and GRE
-- 💞️ I’m looking to collaborate on the master of U of Tornto or U of Waterloo 
+- 💞️ I’m applying for the computer master degree of U of T or U of Waterloo and my dreem institute is cmu
 - 📫 How to reach me 1647234096@qq.com or djm116@stu.xjtu.edu.cn or my Wechat number is djm1647234096
 
 <!---
