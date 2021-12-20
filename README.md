@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Ysfsblj
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning IELTS and GRE
-- 💞️ I’m applying for the computer master degree of U of T or U of Waterloo and my dreem institute is cmu
-- 📫 Please email me if you have any question. My email is 1647234096@qq.com or djm116@stu.xjtu.edu.cn and my Wechat number is djm1647234096
+- 👋 Hi, I’m @Daniel. My Chinese name is 邓嘉铭
+- 👀 I’m interested in data science and software development
+- 🌱 I’m currently learning computer network and C++
+- 💞️ I’m going to study in TCD in Dublin Ireland in 2022.9
+- 📫 Please email me if you have any question. My email is djm116@stu.xjtu.edu.cn and my Wechat number is djm1647234096
 
 <!---
 djm-xjtu/djm-xjtu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
