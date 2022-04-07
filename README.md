@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Daniel.
 - 👀 I’m looking for SDE intern.
-- 💞️ I’m going to study in [TCD](https://en.wikipedia.org/wiki/Trinity_College_Dublin) in Dublin Ireland in 2022.9
+- 🌍 I’m going to study in [TCD](https://en.wikipedia.org/wiki/Trinity_College_Dublin) in Dublin Ireland in 2022.9
 - 📫 Please email me if you have any question. My email is denjm@foxmail.com.
 
 <!---
