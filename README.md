@@ -68,7 +68,7 @@
 
 </p>
 
-### 🔭I'm somehow familiar with and learning
+## 🔭I'm somehow familiar with and learning
 
 <p>
   <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer">
